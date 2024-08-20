@@ -4,7 +4,7 @@ import "./globals.css"
 const Entry:React.FC = () => {
   return(
     <div>
-      <h1>this is main page</h1>
+      <h1>this is NOT main page</h1>
     </div>
   )
 }
